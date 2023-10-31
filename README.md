@@ -2,13 +2,13 @@
 
 
 ## AIM
-Write the experiment AIM.
+To develop a Python program to find the optimal policy for the given RL environment using SARSA-Learning and compare the state values with the Monte Carlo method.
 
 ## PROBLEM STATEMENT
 Explain the problem statement.
 
 ## SARSA LEARNING ALGORITHM
-Include the steps involved in the SARSA Learning algorithm
+![Uploading Screenshot 2023-10-31 093306.png…]()
 
 ## SARSA LEARNING FUNCTION
 ```python
@@ -47,15 +47,15 @@ def sarsa(env,
 ```
 
 ## OUTPUT:
-Mention the optimal policy, optimal value function , success rate for the optimal policy.
+The optimal policy, optimal value function , success rate for the optimal policy.
 ![Screenshot 2023-10-31 092746](https://github.com/Dineshkumar021617/sarsa-learning/assets/75234807/6af661af-0043-4e82-bfa7-53163bab93ce)
 
 
-Include plot comparing the state value functions of Monte Carlo method and SARSA learning.
+Plot comparing the state value functions of Monte Carlo method and SARSA learning.
 ![image](https://github.com/Dineshkumar021617/sarsa-learning/assets/75234807/47170090-58a0-43f7-9483-4df0767d4c72)
 
 ![image](https://github.com/Dineshkumar021617/sarsa-learning/assets/75234807/82802720-50db-4247-baeb-54f9fbd3e1fa)
 
 ## RESULT:
 
-Write your result here
+Thus, a Python program to find the optimal policy for the given RL environment using SARSA-Learning and compare the state values with the Monte Carlo method is developed and implemented successfully.
